@@ -1,4 +1,4 @@
-# TER 2025 — Anomaly Detection, Forecasting & Interpolation
+# Anomaly Detection, Forecasting & Interpolation
 
 This repository contains experiments on meteorological time-series data (Météo France). The work covers three tracks:
 - Detecting anomalies with deep generative models (VAE + GAN).
